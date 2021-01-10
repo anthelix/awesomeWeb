@@ -67,7 +67,6 @@ Nitty gritty collections about programming and data: Python, Docker, Datasets, M
 - [Dockerfile](https://github.com/MartinHeinz/blog-backend/blob/master/postgres/Dockerfile) #entrypoint #init #psql
 - [docker stacks](https://github.com/jupyter/docker-stacks/blob/master/docs/using/recipes.md) #jupyter #xgboost #docker
 - [Dockerfiles](https://github.com/vimagick/dockerfiles)
-- 
 
 ## StackOverflow
 - [Initialize Postgres db in Docker Compose](https://stackoverflow.com/questions/56643961/initialize-postgres-db-in-docker-compose) #psql #docker-compose #csv #init
@@ -78,7 +77,7 @@ Nitty gritty collections about programming and data: Python, Docker, Datasets, M
 ## programming
 - [Github Awesome, free-programming-books](https://github.com/EbookFoundation/free-programming-books#readme)
 - [python-snippets](https://github.com/progrmoiz/python-snippets)
-- 
+- [How to lie with Statistics](https://towardsdatascience.com/lessons-from-how-to-lie-with-statistics-57060c0d2f19)
 
 # Python
 - [--Awesome-Python--](https://github.com/JoMingyu/--Awesome-Python--)[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
